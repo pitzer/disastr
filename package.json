@@ -16,5 +16,8 @@
   "scripts": {
     "postinstall": "bower update",
     "prestart": "npm update"
+  },
+  "dependencies": {
+    "ng-material-floating-button": "^0.6.1"
   }
 }
